@@ -10,6 +10,10 @@ https://github.com/bdosremedios/SolarOrbitalSimulation
 
 3. **Python-Finance-Data-Visualisation-Tool** Code for generating a financial summary of important monthly trends in bank account, from transaction csvs and initial account balances downloaded from a bank's online banking service. https://github.com/bdosremedios/Python-Finance-Data-Visualisation-Tool
 
+You can also find me and more about my background at my LinkedIn: https://www.linkedin.com/in/brandon-dos-remedios-26a5a6157/
+
+### Enjoy your stay 🌟
+
 <!--
 **bdosremedios/bdosremedios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
