@@ -1,8 +1,10 @@
 ## Welcome to my Github!
 
-##### Hello! I'm Brandon Dos Remedios, currently a student in Physics and Computer Science at the University of British Columbia and I'd like to bid you welcome to my GitHub profile. I've a few examples of previous work from previous work experiences (and a few hidden for privacy reasons, inquire please if interested) contained, and three personal projects to view.
+Hello 👋! I'm Brandon Dos Remedios, currently a student in Physics and Computer Science at the University of British Columbia and I'd like to bid you welcome to my GitHub profile. I've a few examples of previous work from previous work experiences (and a few hidden for privacy reasons, inquire please if interested) contained, and three personal projects to view which are as follows:
 
-
+1. SimplePDF
+A barebones PDF Application for removing, rearranging, or appending pages in PDFs. Written in Python.
+https://github.com/bdosremedios/SimplePDF
 
 <!--
 **bdosremedios/bdosremedios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
