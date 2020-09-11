@@ -1,6 +1,8 @@
 ### Welcome to my Github!
 
-Hello! I'm Brandon Dos Remedios, currently a student in Physics and Computer Science at the University of British Columbia and this is my GitHub profile. I've a few examples of previous work from previous co-op work terms contained, and three personal projects to view.
+# Hello! I'm Brandon Dos Remedios, currently a student in Physics and Computer Science at the University of British Columbia and I'd like to bid you welcome to my GitHub profile. I've a few examples of previous work from previous work experiences (and a few hidden for privacy reasons, inquire please if interested) contained, and three personal projects to view.
+
+
 
 <!--
 **bdosremedios/bdosremedios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
