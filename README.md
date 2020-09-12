@@ -12,7 +12,7 @@ https://github.com/bdosremedios/SimplePDF
 2. **SolarOrbitalSimulation** A python application to simulate planetary orbit behavior using Kepler's laws. Written in Python and a naive non DE approach.
 https://github.com/bdosremedios/SolarOrbitalSimulation
 
-3. **Intus** An emotional health journal recorder and visualizer. Written in Java.
+3. **Intus** An emotional health journal recorder and visualizer. Written in Java. https://github.com/bdosremedios/Intus
 
 4. **Python-Finance-Data-Visualisation-Tool** Code for generating a financial summary of important monthly trends in bank account, from transaction csvs and initial account balances downloaded from a bank's online banking service. Written in Python. https://github.com/bdosremedios/Python-Finance-Data-Visualisation-Tool
 
