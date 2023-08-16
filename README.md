@@ -4,8 +4,7 @@
 
 ## Welcome to my Github!
 
-Hello 👋! My name is Brandon Dos Remedios, currently a M.Sc Computer Science student studying Scientific Computing at the University of British Columbia and 
-welcome to my GitHub!
+Hello 👋 My name is Brandon Dos Remedios, currently a M.Sc Computer Science student studying Scientific Computing at the University of British Columbia. Welcome to my GitHub!
 <!--
 I have a few examples of previous work from previous work experiences contained (and a few hidden for privacy reasons, inquire please if interested), and four major personal projects to view which are as follows:
 
